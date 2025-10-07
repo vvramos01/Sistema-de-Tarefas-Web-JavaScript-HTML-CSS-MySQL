@@ -1,4 +1,4 @@
-# Sistema de Tarefas (To-Do List)
+# Sistema de Tarefas 
 
 Projeto acadêmico web para gerenciar tarefas, usando **PHP + MySQL + HTML/CSS + JavaScript**.
 
